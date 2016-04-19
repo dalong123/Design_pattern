@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\Singleton_de\obj\x86\Debug\Singleton_de.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\Singleton_de\bin\Debug\Singleton_de.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\Singleton_de\bin\Debug\Singleton_de.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\Singleton_de\bin\Debug\SIngleton.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\Singleton_de\bin\Debug\SIngleton.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\Singleton_de\obj\x86\Debug\Singleton_de.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\Singleton_de\obj\x86\Debug\Singleton_de.pdb

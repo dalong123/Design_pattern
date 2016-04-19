@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\SIngleton\bin\Debug\SIngleton.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\SIngleton\bin\Debug\SIngleton.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\SIngleton\obj\Debug\SIngleton.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Singleton_de\SIngleton\obj\Debug\SIngleton.pdb
