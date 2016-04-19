@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\IProductClass\bin\Debug\IProductClass.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\IProductClass\bin\Debug\IProductClass.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\IProductClass\obj\Debug\IProductClass.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\IProductClass\obj\Debug\IProductClass.pdb

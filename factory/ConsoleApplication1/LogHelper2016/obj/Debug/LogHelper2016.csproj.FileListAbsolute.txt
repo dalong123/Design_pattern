@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\LogHelper2016\bin\Debug\LogHelper2016.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\LogHelper2016\bin\Debug\LogHelper2016.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\LogHelper2016\bin\Debug\log4net.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\LogHelper2016\obj\Debug\LogHelper2016.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\LogHelper2016\obj\Debug\LogHelper2016.pdb

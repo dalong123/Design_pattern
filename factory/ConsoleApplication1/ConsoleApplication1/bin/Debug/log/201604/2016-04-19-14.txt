@@ -1,0 +1,18 @@
+
+ 
+记录时间：2016-04-19 14:05:07,242 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：ConsoleApplication1.Factory property: [(null)] - 
+错误描述：System.InvalidCastException: 无法将类型为“Product4Class.Product4”的对象强制转换为类型“AbstractProduct.AbstractProduct”。
+   在 ConsoleApplication1.Factory.GetProduct2(String parames) 位置 c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\Factory.cs:行号 38
+ 
+
+ 
+记录时间：2016-04-19 14:05:27,948 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：ConsoleApplication1.Factory property: [(null)] - 
+错误描述：System.InvalidCastException: 无法将类型为“Product4Class.Product4”的对象强制转换为类型“AbstractProduct.AbstractProduct”。
+   在 ConsoleApplication1.Factory.GetProduct2(String parames) 位置 c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\Factory.cs:行号 38
+ 

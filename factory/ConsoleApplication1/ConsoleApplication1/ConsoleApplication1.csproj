@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{50562498-6A5C-42CC-B384-435EB9CB39CE}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConsoleApplication1</RootNamespace>
+    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Factory.cs" />
+    <Compile Include="IProduct.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Product2.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Factory2.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="sing\Factory.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractProduct\AbstractProduct.csproj">
+      <Project>{B0B9C631-1309-4328-838E-BDA9A63BB79C}</Project>
+      <Name>AbstractProduct</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IProductClass\IProductClass.csproj">
+      <Project>{370E6380-C7A8-43FA-9D4B-D83811A06D66}</Project>
+      <Name>IProductClass</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogHelper2016\LogHelper2016.csproj">
+      <Project>{0D5822AE-D4D9-4CD7-9463-C76BFC5BFBED}</Project>
+      <Name>LogHelper2016</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\product2Class\product2Class.csproj">
+      <Project>{E709919F-5DA4-41DF-AF00-CC53F1336E4B}</Project>
+      <Name>product2Class</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Product3Class\Product3Class.csproj">
+      <Project>{9B35AF9D-09B7-4DA4-9DD5-253CC5D5F069}</Project>
+      <Name>Product3Class</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Product4Class\Product4Class.csproj">
+      <Project>{26BA62DA-3C3E-43B6-9984-FEB84942131A}</Project>
+      <Name>Product4Class</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Product5Class\Product5Class.csproj">
+      <Project>{B50E077C-B4EB-4A19-B597-061E8D4DF977}</Project>
+      <Name>Product5Class</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProductClass\ProductClass.csproj">
+      <Project>{09E0F5DD-2C77-4A87-9082-733E842DEE95}</Project>
+      <Name>ProductClass</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="log4net.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

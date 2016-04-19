@@ -1,0 +1,29 @@
+
+ 
+记录时间：2016-04-19 13:48:43,721 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：ConsoleApplication1.Factory property: [(null)] - 
+错误描述：System.IO.FileNotFoundException: 未能加载文件或程序集“file:///c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Product4Class.dll”或它的某一个依赖项。系统找不到指定的文件。
+文件名:“file:///c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Product4Class.dll”
+   在 System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   在 System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   在 System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   在 System.Reflection.RuntimeAssembly.InternalLoadFrom(String assemblyFile, Evidence securityEvidence, Byte[] hashValue, AssemblyHashAlgorithm hashAlgorithm, Boolean forIntrospection, Boolean suppressSecurityChecks, StackCrawlMark& stackMark)
+   在 System.Reflection.Assembly.LoadFrom(String assemblyFile)
+   在 ConsoleApplication1.Factory.GetProduct2(String parames) 位置 c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\Factory.cs:行号 34
+
+=== 预绑定状态信息 ===
+日志: Where-ref 绑定。位置 = c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Product4Class.dll
+日志: Appbase = file:///c:/users/administrator/documents/visual studio 2010/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/
+日志: 初始 PrivatePath = NULL
+调用程序集: (Unknown)。
+===
+日志: 此绑定从 LoadFrom 加载上下文开始。
+警告: 将不在 LoadFrom 上下文中探测本机映像。仅在默认加载上下文中探测本机映像，例如，使用 Assembly.Load()。
+日志: 正在使用应用程序配置文件: c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.vshost.exe.config
+日志: 使用主机配置文件: 
+日志: 使用 C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config 的计算机配置文件。
+日志: 尝试下载新的 URL file:///c:/users/administrator/documents/visual studio 2010/Projects/ConsoleApplication1/ConsoleApplication1/bin/Debug/Product4Class.dll。
+
+ 

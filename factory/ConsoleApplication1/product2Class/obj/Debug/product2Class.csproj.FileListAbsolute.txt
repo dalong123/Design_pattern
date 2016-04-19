@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\bin\Debug\product2Class.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\bin\Debug\product2Class.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\bin\Debug\IProductClass.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\bin\Debug\LogHelper2016.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\bin\Debug\log4net.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\bin\Debug\IProductClass.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\bin\Debug\LogHelper2016.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\obj\Debug\product2Class.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\obj\Debug\product2Class.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\product2Class\obj\Debug\product2Class.pdb

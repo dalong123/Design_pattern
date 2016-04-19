@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\AbstractProduct\bin\Debug\AbstractProduct.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\AbstractProduct\bin\Debug\AbstractProduct.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\AbstractProduct\obj\Debug\AbstractProduct.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\AbstractProduct\obj\Debug\AbstractProduct.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\AbstractProduct\bin\Debug\IProductClass.dll
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\AbstractProduct\bin\Debug\IProductClass.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\ConsoleApplication1\AbstractProduct\obj\Debug\AbstractProduct.csprojResolveAssemblyReference.cache
