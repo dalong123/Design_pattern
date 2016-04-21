@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Handlers\Handlers\bin\Debug\Handlers.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Handlers\Handlers\bin\Debug\Handlers.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Handlers\Handlers\obj\x86\Debug\Handlers.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Handlers\Handlers\obj\x86\Debug\Handlers.pdb
