@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\CommandPa\CommandPa\bin\Debug\CommandPa.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CommandPa\CommandPa\bin\Debug\CommandPa.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\CommandPa\CommandPa\obj\x86\Debug\CommandPa.exe
+c:\users\administrator\documents\visual studio 2010\Projects\CommandPa\CommandPa\obj\x86\Debug\CommandPa.pdb

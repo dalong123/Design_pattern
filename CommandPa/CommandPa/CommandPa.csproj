@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{1257A4F5-4669-4477-BB62-B231C9A88B63}</ProjectGuid>
+    <ProjectGuid>{AAEDC898-057F-4EBE-A5AE-5F3E3175750A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Handlers</RootNamespace>
-    <AssemblyName>Handlers</AssemblyName>
+    <RootNamespace>CommandPa</RootNamespace>
+    <AssemblyName>CommandPa</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -43,18 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="abHandler.cs" />
-    <Compile Include="Abrequest.cs" />
-    <Compile Include="firstHandler.cs" />
-    <Compile Include="firstrequest.cs" />
-    <Compile Include="handlers.cs" />
+    <Compile Include="command2Concreate.cs" />
+    <Compile Include="command2Imp.cs" />
+    <Compile Include="CommandCon.cs" />
+    <Compile Include="CommandCon2.cs" />
+    <Compile Include="CommandCon3.cs" />
+    <Compile Include="Icommand.cs" />
+    <Compile Include="Icommand2.cs" />
+    <Compile Include="InVoker.cs" />
+    <Compile Include="InVoker2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Result.cs" />
-    <Compile Include="secondHandler.cs" />
-    <Compile Include="secondrequest.cs" />
-    <Compile Include="thirdHandler.cs" />
-    <Compile Include="thirdrequest.cs" />
+    <Compile Include="Reciver.cs" />
+    <Compile Include="Reciver2.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
